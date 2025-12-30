@@ -3,7 +3,7 @@
 💻 Software Developer | IT Student  
 
 ### 🛠️ Technical Skills
-- **Languages:** JavaScript, Typescript,Java, Python  
+- **Languages:** JavaScript, Typescript, Java, Python  
 - **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, Vue.js, React, Next  
 - **Backend:** NodeJS, Spring Boot, Flask  
 - **Databases:** MySQL, Firebase, MongoDB  
