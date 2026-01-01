@@ -4,7 +4,7 @@
 
 ### 🛠️ Technical Skills
 - **Languages:** JavaScript, Typescript, Java, Python  
-- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, Vue.js, React, Next  
+- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, Vue, React, Next  
 - **Backend:** NodeJS, Spring Boot, Flask  
 - **Databases:** MySQL, Firebase, MongoDB  
 - **Tools:** Git, Postman, Docker  
